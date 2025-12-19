@@ -69,6 +69,4 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 5. Submit a pull request.
 
 
-## Contact
-If you have any questions or suggestions, feel free to contact us at [mohnish201@gmail.com](mailto:mohnish201@gmail.com).
 
